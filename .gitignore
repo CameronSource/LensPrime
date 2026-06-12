@@ -1,0 +1,11 @@
+**pycache**/
+*.pyc
+
+.venv/
+venv/
+
+database/*.db
+!database/.gitkeep
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,state,customer_type
+C001,Ava,Johnson,TX,Retail
+C002,Liam,Smith,OK,Retail
+C003,Noah,Williams,TX,Wholesale
+C004,Emma,Brown,AR,Retail
+C005,Olivia,Jones,LA,Wholesale

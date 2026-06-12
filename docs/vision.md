@@ -1,0 +1,1 @@
+LensPrime is a guided database query tool that allows users to import CSV or Excel files, define relationships between tables, answer simple questions, and generate SQL queries without needing to know SQL.
