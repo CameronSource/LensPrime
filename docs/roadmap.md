@@ -2,24 +2,23 @@
 
 ## Version 0.01 (Completed)
 
-* CSV import system
-* SQLite workspace generation
-* Table discovery
-* Column discovery
-* Primary key detection
-* Relationship detection
-* SQL generation
-* SQL execution
-* Results display
+- [x] CSV import system
+- [x] SQLite workspace generation
+- [x] Table discovery
+- [x] Column discovery
+- [x] Primary key detection
+- [x] Relationship detection
+- [x] SQL generation
+- [x] SQL execution
+- [x] Results display
 
-## Version 0.02
-
-* Dynamic query builder
-* Metric selection
-* Group By selection
-* Filter selection
-* Sort selection
-* Result limiting
+## Version 0.02 (In Progress)
+- [x] Dynamic query builder
+- [x] Metric selection
+- [x] Group By selection
+- [x] Sort selection
+- [x] Result limiting
+- [ ] Filter support
 
 ## Version 0.03
 

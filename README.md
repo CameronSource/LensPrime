@@ -13,7 +13,7 @@ Rather than functioning as a database hosting service, LensPrime acts as a tempo
 
 ## Current Status
 
-**Version:** Early Prototype (v0.01)
+**Current Version:** v0.02 (Dynamic Query Builder Prototype)
 
 LensPrime is currently in active development and serves as a proof-of-concept demonstrating the core architecture required for future expansion.
 
@@ -27,8 +27,12 @@ Current functionality includes:
 * Generating SQL queries
 * Executing SQL queries
 * Displaying query results
+* Dynamic metric selection
+* Dynamic group-by selection
+* Sort order selection
+* Optional result limiting
 
-Future versions will expand upon these capabilities with a user interface, dynamic query generation, advanced relationship detection, data editing tools, and business intelligence integrations.
+Future versions will expand upon these capabilities with a user interface, advanced relationship detection, data editing tools, and business intelligence integrations.
 
 ---
 
@@ -139,7 +143,7 @@ Run:
 python backend/query_builder.py
 ```
 
-Choose one of the available business questions.
+Cycle through the available metrics for desired query.
 
 LensPrime will:
 
